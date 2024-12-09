@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\queue-tee-pie-Vhuerta24\\queue_tee_pie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C22585-1322-440D-9C5B-A6BB9CE568FD}|queue_tee_pie\\queue_tee_pie.vcxproj|C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\queue-tee-pie-Vhuerta24\\queue_tee_pie\\queue_tee_pie\\queue_tee_pie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4C22585-1322-440D-9C5B-A6BB9CE568FD}|queue_tee_pie\\queue_tee_pie.vcxproj|solutionrelative:queue_tee_pie\\queue_tee_pie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queue_tee_pie.cpp",
+              "DocumentMoniker": "C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\queue-tee-pie-Vhuerta24\\queue_tee_pie\\queue_tee_pie\\queue_tee_pie.cpp",
+              "RelativeDocumentMoniker": "queue_tee_pie\\queue_tee_pie.cpp",
+              "ToolTip": "C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\queue-tee-pie-Vhuerta24\\queue_tee_pie\\queue_tee_pie\\queue_tee_pie.cpp",
+              "RelativeToolTip": "queue_tee_pie\\queue_tee_pie.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T10:47:18.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
